@@ -37,9 +37,9 @@ Primeiro, clone o repositório do projeto do GitHub para sua máquina local:
 
 Bash
 
-git clone <URL_DO_SEU_REPOSITORIO_AQUI>
+git clone https://github.com/Juholiver/testBackEndConfi
 cd testBackEndConfi
-Nota: Substitua <URL_DO_SEU_REPOSITORIO_AQUI> pela URL real do seu repositório GitHub.
+
 
 2. Instalando as Dependências
 Navegue até o diretório do projeto e instale todas as dependências necessárias do Node.js:
