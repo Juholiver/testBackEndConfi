@@ -37,9 +37,9 @@ Primeiro, clone o repositório do projeto do GitHub para sua máquina local:
 
 Bash
 
-git clone <URL_DO_SEU_REPOSITORIO_AQUI>
+git clone https://github.com/Juholiver/testBackEndConfi
 cd testBackEndConfi
-Nota: Substitua <URL_DO_SEU_REPOSITORIO_AQUI> pela URL real do seu repositório GitHub.
+
 
 2. Instalando as Dependências
 Navegue até o diretório do projeto e instale todas as dependências necessárias do Node.js:
@@ -54,6 +54,7 @@ Bash
 
 cp .env.example .env
 Abra o recém-criado arquivo .env e atualize as variáveis MONGO_URI e DB_NAME com os detalhes da sua conexão MongoDB:
+Ja deixei o .env.exmple fora do git commit para acessar o banco de dados atlas db, nao e minha conta principal e apenas uma conta para o projeto.
 
 # Conexão MongoDB
 MONGO_URI=mongodb://localhost:27017/ # Sua string de conexão MongoDB
