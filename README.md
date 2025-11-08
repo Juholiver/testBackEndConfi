@@ -54,6 +54,7 @@ Bash
 
 cp .env.example .env
 Abra o recém-criado arquivo .env e atualize as variáveis MONGO_URI e DB_NAME com os detalhes da sua conexão MongoDB:
+Ja deixei o .env.exmple fora do git commit para acessar o banco de dados atlas db, nao e minha conta principal e apenas uma conta para o projeto.
 
 # Conexão MongoDB
 MONGO_URI=mongodb://localhost:27017/ # Sua string de conexão MongoDB
