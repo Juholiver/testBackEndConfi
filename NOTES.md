@@ -22,9 +22,8 @@
 *   **Implementar Autenticação e Autorização de Usuários:** Proteger os endpoints da API e gerenciar o acesso dos usuários.
 *   **Adicionar Notificações em Tempo Real:** Integrar WebSockets para entrega instantânea de notificações.
 *   **Aprimorar a Validação de Entradas:** Desenvolver um esquema de validação robusto para todas as entradas da API.
-*   **Melhorar o Tratamento de Erros:** Implementar tipos de erro mais específicos e um mecanismo centralizado para o tratamento de exceções.
+*   **Melhorar o Tratamento de Erros:** Implementar tipos de erro mais específicos e um mecanismo centralizado para o tratamento de exceções.1
 *   **Implementar Logging e Monitoramento Completos:** Configurar um sistema de logging (ex: Winston, Pino) e integrá-lo com ferramentas de monitoramento.
-*   **Gerar Documentação da API:** Utilizar ferramentas como Swagger/OpenAPI para documentar a API, facilitando seu consumo.
 *   **Aumentar a Cobertura de Testes:** Escrever mais testes unitários e de integração para as funcionalidades críticas.
 *   **Containerização:** Dockerizar a aplicação para simplificar a implantação e o escalonamento.
 *   **Pipeline de CI/CD:** Configurar um pipeline de Integração Contínua e Entrega Contínua.
